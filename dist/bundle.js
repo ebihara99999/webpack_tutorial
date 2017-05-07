@@ -70,8 +70,12 @@
 /* 0 */
 /***/ (function(module, exports) {
 
-var cats = ['tama', 'kuro', 'tora']
-module.exports = cats;
+module.exports = [
+	"cats.yml",
+	"tama",
+	"kuro",
+	"tora"
+];
 
 /***/ }),
 /* 1 */
