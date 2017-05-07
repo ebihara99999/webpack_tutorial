@@ -1,2 +1,2 @@
-var cats = require('./cats.yml');
+var cats = require('./cats');
 console.log(cats);
